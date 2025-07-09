@@ -1,0 +1,61 @@
+Ankit Tayal
+Github: ankitT20 Email: tayalankit20@gmail.com
+LinkedIn: ankit-tayal-ip Phone: +91-9953301972
+Professional Certification
+• AWS Certified Cloud Practitioner (CLF-C02)
+• GitHub Foundations
+• Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+Education
+Year Degree/Board Institute CGPA/%
+Jun 2025 B.Tech in Industrial Internet of Things University School of Automation & Robotics, GGSIPU 8/10
+Apr 2021 CBSE (XII) Lancer’s Convent, New Delhi 81%
+Apr 2019 CBSE (X) Lancer’s Convent, New Delhi 80%
+Work Experience
+• Agentic AI Engineer (Jan 2025 - present)
+Prodigal AI Delhi, India
+– Co-developed modular agentic AI frameworks enabling automated multi-agent workflows, API integrations, and custom
+toolchains for scalable AI solutions including an Multi-speaker AI podcast generator.
+– Designed cloud-native, scalable LLM inference pipelines using Docker and Python, achieving 3x latency reduction and
+30% lower resource costs, thereby enabling high-throughput model serving APIs.
+• Financial Research Engineer (Aug 2022 - Dec 2022 )
+Assetgro Fintech Pvt. Ltd. (StockGro) Delhi, India
+– Engineered a real-time data visualization system by integrating Python microservices (Flask and WebSocket APIs) to
+revamp live information feeds and sections, driving a 15% increase in subscription engagement and retention.
+– Developed a analytics pipeline leveraging Python web scraping (BeautifulSoup) and NSE API integration to fetch,
+process, and visualize real-time Nifty stock data using Pandas and NumPy, enabling trend identification.
+– Implemented financial reporting and market analysis using Python scripts that combined web scraping with NSE API calls
+to generate actionable equity research insights, enhancing overall portfolio performance by 10%.
+Leadership Experience
+• Co-Lead in Cloud Computing and Founding Member (Aug 2023 - Aug 2024 )
+Google Developer Student Club USAR Delhi, India
+– Organized two Google Cloud Study Jam events that featured Qwiklabs hands-on GCP labs achieving Tier 1 and
+providing 80 students with GCP badges and valuable goodies. Founded the club and grew membership to over 120
+active participants, while coordinating engaging sessions with guest experts, including speaker JK Gunnink.
+Projects
+• Journal App – SpringBoot | JAVA, MongoDB, JWT, OAuth2, Kafka, Postman | GitHub
+– Designed and deployed a secure, production-grade journaling API using Spring Boot, MongoDB, and JWT/ OAuth2
+authentication, implementing modular RESTful endpoints with role-based access control and sentiment-tagged entries.
+– Integrated advanced backend features including Spring Security, MongoDB Atlas, SonarCloud quality gates, Google
+OAuth, while following clean architecture, TDD principles (JUnit + Mockito), and CI/CD practices with Railway.
+• Full Stack CI/CD App – AWS to GCP | Docker, Travis CI, AWS EB, Google Kubernetes Engine | GitHub
+– Designed and Containerized a full-stack app (React, Express, Redis, PostgreSQL) using multi-stage Docker builds and
+Docker Compose, implemented Nginx reverse proxy, configured CI/CD pipelines with GitHub and Travis CI, published
+images to Docker Hub for automated deployments on AWS Elastic Beanstalk, ElastiCache, RDS.
+– Deployed infrastructure on GKE by YAML manifests (Deployments, Services, Ingress, PVCs), integrating Helm for ingressnginx and cert-manager (Let’s Encrypt), and automating secure HTTPS routing and rolling updates through CI pipelines.
+• Unified Academic Services Platform | Python, AWS, PostgreSQL, React.js, Node.js, RapidAPI | GitHub
+– Developed a full-stack Learning Management System using Python, Django, PostgreSQL, HTML/SCSS, JavaScript
+with multilingual support and third-party integrations like Stripe, Celery, and Redis.
+– Deployed a scalable, high-availability platform on AWS with real-time updates, secure authentication, role-based access,
+followed Agile practices via Jira, improving team productivity by 30%.
+• Signature Authentication | Numpy, OpenCV, TensorFlow, Keras | GitHub
+– Optimized signature datasets using advanced preprocessing (resizing, normalization, augmentation) with NumPy, OpenCV,
+built deep learning models (Shallow CNN, ResNet, Siamese) in TensorFlow/Keras for BHSig260 & CEDAR datasets.
+– Developed a robust forgery detection system with 50% efficiency gain, evaluated performance using ROC curves, confusion matrix, accuracy/loss curves via SkLearn and Matplotlib.
+• Programming Languages: Java, Python, C/C++, JavaScript. Cloud: AWS, GCP, Azure
+• Technologies: DevOps, Terraform, Linux, Bash, Nginx, Docker, Kubernetes, Git, CI/CD, GitHub Actions, Jenkins, Travis CI, PowerShell,SDLC,Ansible,Prometheus,Grafana,ELK,GitLab,CircleCI,DevOps,Terraform,Linux,Bash,GitHub Actions,Jenkins
+Achievements 
+• Internship Certificate: Completed a 6-week IBM SkillsBuild Summer Internship Program in Data Analytics with CSRBOX.
+• Merit Certificate:1st Rank in CryptoCon, 5-day trading event at IIT Delhi’s annual cultural fest, winning cash prize & goodies.
+• Solved over 200 problems in Data Structures and Algorithms on platforms like Pepcoding.
+• Ranked 5th in department during 2nd & 8th semester.
+
