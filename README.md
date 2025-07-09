@@ -1,6 +1,6 @@
 # 🌐 Ankit Tayal's Portfolio
 
-🚀 **Live Here:** [https://dev-Ankit.vercel.app](https://dev-Ankit.vercel.app)
+🚀 **Live Here:** [ankit20.vercel.app](https://ankit20.vercel.app/)
 
 ![](/public/screenshot.png)
 
