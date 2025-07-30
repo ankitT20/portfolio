@@ -20,8 +20,8 @@ export default function HomePage() {
         <HeroSection />
         <AboutSection />
         <CreativeSkillsSection />
-        <ProjectsSection />
         <WorkExperienceSection />
+        <ProjectsSection />
         <CertificationsSection />
         <HobbiesSection/>
         <ContactSection/>

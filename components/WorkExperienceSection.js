@@ -10,8 +10,8 @@ const workExperiences = [
     period: "Jan 2025 - present",
     location: "Delhi, India",
     description: "Co-developed modular agentic AI frameworks enabling automated multi-agent workflows, API integrations, and custom toolchains for scalable AI solutions including an Multi-speaker AI podcast generator. Designed cloud-native, scalable LLM inference pipelines using Docker and Python, achieving 3x latency reduction and 30% lower resource costs.",
-    image: "prodigalLogo.png",
-    imageAlt: "Prodigal AI Logo"
+    image: "ProdigalAI_Certificate.png",
+    imageAlt: "Prodigal AI Internship Certificate"
   },
   {
     role: "Financial Research Engineer",
