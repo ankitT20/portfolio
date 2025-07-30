@@ -7,7 +7,7 @@ const workExperiences = [
   {
     role: "Agentic AI Engineer",
     company: "Prodigal AI",
-    period: "Jan 2025 - present",
+    period: "Jan 2025 - July 2025",
     location: "Delhi, India",
     description: "Co-developed modular agentic AI frameworks enabling automated multi-agent workflows, API integrations, and custom toolchains for scalable AI solutions including an Multi-speaker AI podcast generator. Designed cloud-native, scalable LLM inference pipelines using Docker and Python, achieving 3x latency reduction and 30% lower resource costs.",
     image: "ProdigalAI_Certificate.png",
@@ -25,8 +25,8 @@ const workExperiences = [
   {
     role: "Data Analytics Intern",
     company: "IBM SkillsBuild Summer Internship Program",
-    period: "6-week program",
-    location: "Remote",
+    period: "Jun 2024 - Aug 2024",
+    location: "Delhi, India",
     description: "Completed a comprehensive 6-week IBM SkillsBuild Summer Internship Program in Data Analytics with CSRBOX. Gained hands-on experience in data analysis, visualization, and machine learning techniques using IBM tools and technologies.",
     image: "IBM_Internship.jpg", 
     imageAlt: "IBM Internship Certificate"
@@ -77,7 +77,7 @@ export default function WorkExperienceSection() {
               <div className="flex-shrink-0">
                 <motion.div
                   whileHover={{ scale: 1.05 }}
-                  className="w-48 h-48 lg:w-64 lg:h-64 rounded-xl overflow-hidden border-2 border-purple-500 shadow-2xl bg-white/10 flex items-center justify-center"
+                  className="w-48 h-48 lg:w-80 lg:h-64 rounded-xl overflow-hidden border-2 border-purple-500 shadow-2xl bg-white/10 flex items-center justify-center"
                 >
                   {experience.image ? (
                     <Image
